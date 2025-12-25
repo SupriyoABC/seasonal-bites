@@ -1,1 +1,12 @@
-[]
+[[
+  {
+    "name": "Special Rasgulla",
+    "price": "120",
+    "image": "https://img.freepik.com/free-photo/delicious-indian-sweet-rasgulla-bowl_23-2149117180.jpg"
+  },
+  {
+    "name": "Gulab Jamun",
+    "price": "150",
+    "image": "https://img.freepik.com/free-photo/popular-indian-dessert-gulab-jamun_23-2149117185.jpg"
+  }
+]]
